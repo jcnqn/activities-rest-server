@@ -1,5 +1,5 @@
-const { Router } = require('express');
-const {getActivities, getActivitiesById} = require("../controllers/activities.controller");
+const {Router} = require('express');
+const {getActivities, getActivitiesById} = require('../controllers/activities.controller');
 
 const router = Router();
 

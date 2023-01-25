@@ -23,6 +23,6 @@ const activities = [
         endDate: null,
         status: null,
     },
-]
+];
 
 module.exports = activities;
